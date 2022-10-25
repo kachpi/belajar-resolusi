@@ -1,6 +1,6 @@
 Belajar Resolusi
 - konsisten belajar program
 - membuat aplikasi mobile
-- membuat database
 - belajar git hub
 - belajar api
+- belajar yu
