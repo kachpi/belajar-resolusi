@@ -1,6 +1,8 @@
 rencara HUB Javascript 
 
 - belajar HUB
+  - sedang belajar
+  - biar lancar
 - belajar Javascript
 - belajar API
 - mencari kerjaan
